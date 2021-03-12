@@ -45,7 +45,7 @@ sections:
         content: >
           ![](</images/Screenshot 2021-03-01 at 11.05.10.png>)With Goal, you can
           create a dashboard with data about your activities and track your
-          progress.
+          progress.  mkk
         actions:
           - label: Learn More
             url: /thank-you
