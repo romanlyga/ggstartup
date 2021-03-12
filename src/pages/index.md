@@ -43,8 +43,8 @@ sections:
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >
-          ![](/images/STACK%20group.png)With Goal, you can create a dashboard
-          with data about your activities and track your progress.  mkk
+          h Goal, you can create a dashboard with data about your activities and
+          track your progress.  mkk
         actions:
           - label: Learn More
             url: /thank-you
