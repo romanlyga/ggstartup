@@ -44,7 +44,8 @@ sections:
       - title: All the Activity Data You Need to Improve Yourself
         content: >
           h Goal, you can create a dashboard with data about your activities and
-          track your progress.  mkk
+          track your progress. 
+          mkk![](https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png)
         actions:
           - label: Learn More
             url: /thank-you
