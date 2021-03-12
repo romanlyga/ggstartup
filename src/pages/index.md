@@ -43,8 +43,8 @@ sections:
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >
-          ![](</images/Screenshot 2021-03-01 at 11.05.10.png>)With Goal, you can
-          create a dashboard with data about your activities and track your
+          ![](/images/Screenshot%202021-03-01%20at%2011.05.10.png)With Goal, you
+          can create a dashboard with data about your activities and track your
           progress.  mkk
         actions:
           - label: Learn More
